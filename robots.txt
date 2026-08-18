@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chi-vince-mondiali-2026.it.com/sitemap.xml
